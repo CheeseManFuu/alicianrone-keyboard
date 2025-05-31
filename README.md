@@ -1,7 +1,7 @@
 ![alicianronekeyboard](https://cheesemanfuu.com/wp-content/uploads/2025/05/4f1daa43-30d8-49a7-b684-ff5232c3f6d6-1-e1747273799328.png)
 
 # Alicianrone Keyboard
-This is the respository for CheeseManFuu's keyboard, currently dubbed Alicianrone.
+This is the Alicianrone 1800 Arisu Keyboard, designed by CheeseManFuu.
 
 The Alicianrone was initially sparked by the acquisition of [GMK Arch](https://geekhack.org/index.php?topic=112566.0) btw, something of a morbid joke of continuing on the spirit of "making your own thing that works the best and is the most modular even if it's jank." Over the course of 2 and a half years the Alicianrone has gone through 6 revisions until finally getting to a producable state that it's currently in.
 
